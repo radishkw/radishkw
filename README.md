@@ -5,8 +5,10 @@
 #####  ###### #    # #      # #    # #  #   # ## # 
 #   #  #    # #    # # #    # #    # #   #  ##  ## 
 #    # #    # #####  #  ####  #    # #    # #    # 
-```                                                   
-![ritsu gif](ritsu.gif)
+```
+:lion::lion::lion:                                                  
+![swag](nickich-aura.gif)
+![the lion](nickich.gif)
 
 
 ![](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)                                                 
