@@ -7,8 +7,9 @@
 #    # #    # #####  #  ####  #    # #    # #    # 
 ```
 :lion::lion::lion:                                                  
-![swag](nickich-aura.gif)
 ![the lion](nickich.gif)
+![swag](nickich-aura.gif)
+
 
 
 ![](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)                                                 
